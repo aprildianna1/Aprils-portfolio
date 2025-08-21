@@ -104,7 +104,9 @@ footer {
     <p>
       📄 <a href="https://www.linkedin.com/in/april-burton-d093311/">LinkedIn</a>  
       💻 <a href="https://github.com/aprildianna1">GitHub</a>  
-      📧 Email: [your email here]
+      📧 Email: burtonapril303@gmail.com[finished resume.pdf](https://github.com/user-attachments/files/21925256/finished.resume.pdf)
+[final Resume- Google Docs.pdf](https://github.com/user-attachments/files/21925162/final.Resume-.Google.Docs.pdf)
+
     </p>
   </section>
 
