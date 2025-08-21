@@ -117,4 +117,6 @@ footer {
     <p>© 2025 April Burton. Built with love and curiosity.</p>
   </footer>
 </body>
-</html>
+</html<a href=[finished resume.pdf](https://github.com/user-attachments/files/21925563/finished.resume.pdf)
+ class="resume-button">📄 Download My Resume</a>
+>
