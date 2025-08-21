@@ -4,7 +4,71 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>April Burton | Cybersecurity & Creativity</title>
-  <link rel="stylesheet" href="style.css" />
+  <link rel="stylesheet" href="style.css"/* Reset and base styles */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(to right, #f3e5f5, #ede7f6); /* Light purples */
+  color: #333;
+  line-height: 1.6;
+  padding: 20px;
+}
+
+/* Header */
+header {
+  background-color: #9575cd; /* Soft purple */
+  color: white;
+  padding: 30px;
+  text-align: center;
+  border-radius: 10px;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+/* Sections */
+section {
+  margin: 40px 0;
+  padding: 20px;
+  background-color: #ffffff;
+  border-left: 6px solid #9575cd;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: #6a1b9a; /* Deep purple accent */
+  font-size: 1.8em;
+  margin-bottom: 10px;
+}
+
+/* Links */
+a {
+  color: #7e57c2;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  font-size: 0.9em;
+  color: #555;
+  border-top: 1px solid #ccc;
+}
+/>
 </head>
 <body>
   <header>
