@@ -99,7 +99,10 @@ footer {
     </p>
   </section>
 
-  <section id="contact">
+  <section id="contact"<p>
+  📄 <a href="April_Burton_Resume.pdf" class="resume-button" download>Download My Resume</a>
+</p>
+>
     <h2>Let’s Connect</h2>
     <p>
       📄 <a href="https://www.linkedin.com/in/april-burton-d093311/">LinkedIn</a>  
